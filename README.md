@@ -1,3 +1,10 @@
-Welcome to my Codeforces grind!
+# 🚀 Codeforces Solutions
 
-This repository contains my personal solutions to *800-rated* problems from Codeforces. It's where I sharpen my problem-solving skills and build a strong foundation for competitive programming.
+This repository contains my accepted solutions to various problems on [Codeforces](https://codeforces.com/).  
+It is organized for practice tracking, revision, and sharing learning with others.
+
+---
+
+## 🎯 My Codeforces Handle
+
+[Hridita Chandra Deb](https://codeforces.com/profile/Hridita%20Chandra%20Deb)
